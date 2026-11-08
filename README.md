@@ -20,7 +20,7 @@ in the [schedule](docs/schedule.md) before the event.
 
 | Challenge | What you will explore | Materials |
 |---|---|---|
-| Quantum Adversarial Machine Learning — Phase 1 | Attack hardened QNN/QCNN image classifiers and defend their original clean counterparts | [Overview](challenges/qaml-phase1/README.md) |
+| Quantum Adversarial Machine Learning | Attack hardened QNN/QCNN image classifiers and defend their original clean counterparts | [Overview](challenges/qaml/README.md) |
 | Quantum Computing Security | Challenge description supplied by its author | [Announcement page](challenges/quantum-computing-security/README.md) |
 | Quantum Federated Learning Privacy | Challenge description supplied by its author | [Announcement page](challenges/quantum-federated-learning-privacy/README.md) |
 
@@ -36,7 +36,7 @@ in the [schedule](docs/schedule.md) before the event.
 
 This public hub carries announcements and rules. It does not accept solutions.
 GitHub does not run the QAML prediction service or evaluate student submissions.
-QAML participants receive the [private Phase 1 starter](https://github.com/walid-mk/csaw-qaml-phase1-2026)
+QAML participants receive the [private QAML starter](https://github.com/walid-mk/csaw-qaml-2026)
 through their team repository; a 404 on that private link means access has not been granted.
 
 Challenge authors can use the [author handoff template](templates/challenge-author-handoff.md)

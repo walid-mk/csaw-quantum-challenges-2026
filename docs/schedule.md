@@ -1,6 +1,6 @@
 # Event schedule
 
-Updated 6 November 2026. This schedule supersedes the earlier November 10 planning date.
+Updated 8 November 2026. This schedule supersedes the earlier November 10 planning date.
 
 | Milestone | MENA | US–Canada |
 |---|---|---|

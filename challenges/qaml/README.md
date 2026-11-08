@@ -1,4 +1,4 @@
-# Quantum Adversarial Machine Learning — Phase 1
+# Quantum Adversarial Machine Learning
 
 Study image robustness in two quantum classifiers: an eight-qubit **QNN** and an
 eight-qubit **QCNN**, both with angle encoding, classical heads, and noiseless
@@ -22,6 +22,8 @@ diagnostics still shown. QCNN retains its existing gates. The two defense
 leaderboards remain separate.
 
 Participants receive rules, examples, the submission template, scoring details,
-and approved assets through an independent private team repository. Checkpoint
-and dataset distribution is pending the final release checks; this announcement
-does not activate the challenge. No real traffic system or external target is involved.
+and approved assets through an independent private team repository. The private
+model/data preparation kit has been assembled and checked on a clean CPU
+environment. Team provisioning, remote deployment and the launch decision remain
+pending; this announcement does not activate the challenge. No real traffic
+system or external target is involved.

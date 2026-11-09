@@ -1,4 +1,4 @@
-# CSAW Quantum Challenges 2026
+# CSAW 2026 Quantum Security Challenge (QSec)
 
 Welcome to the shared information hub for the CSAW quantum security challenges.
 Students investigate organizer-provided systems in a controlled educational environment,
@@ -38,6 +38,9 @@ This public hub carries announcements and rules. It does not accept solutions.
 GitHub does not run the QAML prediction service or evaluate student submissions.
 QAML participants receive the [private QAML starter](https://github.com/walid-mk/csaw-qaml-2026)
 through their team repository; a 404 on that private link means access has not been granted.
+
+Before the event, read the [participant preparation materials](preparation/README.md):
+a short QAML background/setup introduction and a generic five-minute presentation guide.
 
 Challenge authors can use the [author handoff template](templates/challenge-author-handoff.md)
 to add their challenge without changing the other challenges' rules or scoring.

@@ -12,17 +12,17 @@ These are separate local schedules, not simultaneous UTC windows.
 09:00–10:00 GST. The US–Canada edition follows the same local timetable in ET;
 its ceremony arrangements will be communicated by its organizers.
 
-The repositories are being prepared. Submissions, prediction access, and competition
-scoring are **not open yet**. Exact opening, submission, and appeal times will appear
-in the [schedule](docs/schedule.md) before the event.
+**QAML materials release: 11 November 2026.** Start with the notebook in your
+group's private repository. Your group will receive black-box service credentials
+privately. Check the [schedule](docs/schedule.md) for regional submission windows.
 
 ## Challenges
 
 | Challenge | What you will explore | Materials |
 |---|---|---|
 | Quantum Adversarial Machine Learning | Attack hardened QNN/QCNN image classifiers and defend their original clean counterparts | [Overview](challenges/qaml/README.md) |
-| Quantum Computing Security | Challenge description supplied by its author | [Announcement page](challenges/quantum-computing-security/README.md) |
-| Quantum Federated Learning Privacy | Challenge description supplied by its author | [Announcement page](challenges/quantum-federated-learning-privacy/README.md) |
+| Quantum Computing Security | Details coming soon | [Announcement page](challenges/quantum-computing-security/README.md) |
+| Quantum Federated Learning Privacy | Details coming soon | [Announcement page](challenges/quantum-federated-learning-privacy/README.md) |
 
 ## How to participate
 
@@ -41,6 +41,3 @@ through their team repository; a 404 on that private link means access has not b
 
 Before the event, read the [participant preparation materials](preparation/README.md):
 a short QAML background/setup introduction and a generic five-minute presentation guide.
-
-Challenge authors can use the [author handoff template](templates/challenge-author-handoff.md)
-to add their challenge without changing the other challenges' rules or scoring.

@@ -1,12 +1,13 @@
 # Challenge leaderboards
 
-Competition scoring is inactive. There are no ranked submissions yet.
+Verified standings will appear here by region and challenge. No ranked results
+have been published yet.
 
-After activation approval, organizers publish verified results by region and
-challenge. QAML QNN defense and QCNN defense have separate tables. Attack
-variants are also identified separately by family, access mode, and objective.
-An evaluator failure is not a zero and cannot erase a team's earlier valid best.
+QAML QNN defense and QCNN defense have separate tables. Attack variants are
+identified by family, access and objective. Each team's best valid result counts;
+an equal result retains its earlier submission. A result marked `not_scored`
+does not replace an earlier valid score.
 
-Public tables will use team IDs and approved result fields. Student source,
-private feedback, individual identities, and query credentials remain private.
-No overall score across the three challenges is defined here.
+Tables use group IDs. Your source code, private feedback and credentials stay
+private. Consult your challenge's scoring guide for its rules and the event
+schedule for judging announcements.

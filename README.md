@@ -9,11 +9,13 @@ Time (GST, UTC+04:00); US–Canada follows Eastern Time (ET, UTC−05:00 on thes
 These are separate local schedules, not simultaneous UTC windows.
 
 **MENA winners:** Saturday, 14 November, at the CSAW MENA Award Ceremony,
-09:00–10:00 GST. The US–Canada edition follows the same local timetable in ET;
-its ceremony arrangements will be communicated by its organizers.
+09:00–10:00 GST. The US–Canada ceremony is Saturday, 14 November, **09:00–11:00 ET**.
+US–Canada QAML participation is **online**; remote ceremony arrangements will
+be communicated by its organizers.
 
 **QAML materials release: 11 November 2026.** Start with the notebook in the [public QAML starter](https://github.com/walid-mk/csaw-qaml-2026). Your group will receive black-box service credentials
-privately. Check the [schedule](docs/schedule.md) for regional submission windows.
+privately. Start solving from release. QAML closes on 13 November at **18:00 GST
+for MENA** and **18:00 ET for US–Canada**. Check the [schedule](docs/schedule.md) for regional submission windows.
 
 ## Challenges
 

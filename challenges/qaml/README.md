@@ -31,3 +31,7 @@ service URL when access is available. Keep the token within your group. Submit
 solutions by committing to your group's repository and opening a submission
 issue there with the exact commit SHA. No pull request to the shared starter is
 needed. See the [schedule](../../docs/schedule.md) for your regional window.
+
+Start solving from the **11 November release**. Submit by **13 November, 6:00 PM
+GST for MENA** or **6:00 PM ET for US–Canada (online)**. Optional hints are held
+for challenge-day support on 13 November.

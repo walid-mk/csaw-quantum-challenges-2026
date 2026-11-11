@@ -12,8 +12,7 @@ These are separate local schedules, not simultaneous UTC windows.
 09:00–10:00 GST. The US–Canada edition follows the same local timetable in ET;
 its ceremony arrangements will be communicated by its organizers.
 
-**QAML materials release: 11 November 2026.** Start with the notebook in your
-group's private repository. Your group will receive black-box service credentials
+**QAML materials release: 11 November 2026.** Start with the notebook in the [public QAML starter](https://github.com/walid-mk/csaw-qaml-2026). Your group will receive black-box service credentials
 privately. Check the [schedule](docs/schedule.md) for regional submission windows.
 
 ## Challenges
@@ -27,8 +26,8 @@ privately. Check the [schedule](docs/schedule.md) for regional submission window
 ## How to participate
 
 1. Read the [schedule](docs/schedule.md) and your challenge overview.
-2. Obtain a team ID and an invitation to your team's **independent private repository**
-   from the organizers. Registration and support details will be announced here.
+2. Obtain your team ID. For QAML, create a **private repository from the public template**
+   and invite organizer **walid-mk**. Other challenges publish their own submission instructions.
 3. Work in that repository. Keep solutions, artifacts, credentials, and feedback private.
 4. Submit the exact commit SHA through the designated private intake process.
 5. Organizers evaluate an immutable copy and return results privately. Approved
@@ -36,8 +35,8 @@ privately. Check the [schedule](docs/schedule.md) for regional submission window
 
 This public hub carries announcements and rules. It does not accept solutions.
 GitHub does not run the QAML prediction service or evaluate student submissions.
-QAML participants receive the [private QAML starter](https://github.com/walid-mk/csaw-qaml-2026)
-through their team repository; a 404 on that private link means access has not been granted.
+QAML materials are in the [public QAML starter](https://github.com/walid-mk/csaw-qaml-2026).
+Team solutions and submission issues belong in team-owned private repositories.
 
 Before the event, read the [participant preparation materials](preparation/README.md):
 a short QAML background/setup introduction and a generic five-minute presentation guide.

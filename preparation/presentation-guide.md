@@ -7,7 +7,7 @@ rules remain authoritative.
 
 | Time | Section | What to show |
 |---|---|---|
-| 0:00–0:30 | Problem and goal | Team name, the problem you addressed, key constraints and what success means. |
+| 0:00–0:30 | Problem and goal | Team name, the problem you addressed |
 | 0:30–1:15 | Approach | Your central idea and why you chose it. Use one clear diagram if it helps. |
 | 1:15–2:30 | Implementation | The main components, tools and one or two important technical decisions. Explain what your team built or changed. |
 | 2:30–4:15 | Results and evidence | The evaluation setup, a baseline or comparison where available, and the most useful measured results. State units, sample sizes and relevant conditions. |
